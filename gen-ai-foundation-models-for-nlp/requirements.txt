@@ -1,0 +1,5 @@
+torch
+torchtext
+torchdata==0.7.0
+numpy<2.0
+portalocker>=2.0.0
